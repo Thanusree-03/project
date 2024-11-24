@@ -1,4 +1,4 @@
-THIS IS THE README FILE FOR URL SHORT LISTENER
+THIS IS THE README FILE FOR URL SHORTENER SERVICE
 Running the Application
 Run the Flask Application:
 
@@ -23,7 +23,7 @@ Redirect to the Original URL:
 Paste the shortened URL into your browser.
 It will redirect you to the original long URL.
 
-THIS IS THE README FILE FOR SHOPPING CARD LIST:
+THIS IS THE README FILE FOR SHOPPING CART FUNCTIONALTY:
 
 Running the Application
 Start the Flask Application:
