@@ -9,7 +9,7 @@ Access the Application:
 
 Open your browser and visit: http://127.0.0.1:5000
 
-VIEW THW OUTPUT
+VIEW THE OUTPUT
 
 Shorten a URL:
 
@@ -38,13 +38,11 @@ Open your browser and go to: http://127.0.0.1:5000.
 Outputs
 1. Homepage
 The homepage where users can add items to the cart.
-
 2. Cart View
 A table displaying the items in the cart:
-
-Item Name
-Price
-Quantity
+A]Item Name
+B]Price
+C]Quantity
 Total Price
 3. Update and Remove Actions
 Buttons to update or remove items are available next to each item in the cart.
